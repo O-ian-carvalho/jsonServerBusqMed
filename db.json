@@ -1,9 +1,20 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+    "medicamentos": [
+      {
+        "id": 1,
+        "titulo": "Paracetamol",
+        "descricao": "Medicamento utilizado para alívio de febre e dores leves a moderadas."
+      },
+      {
+        "id": 2,
+        "titulo": "Ibuprofeno",
+        "descricao": "Anti-inflamatório usado para tratar dor, febre e inflamações."
+      },
+      {
+        "id": 3,
+        "titulo": "Amoxicilina",
+        "descricao": "Antibiótico utilizado no tratamento de infecções bacterianas."
+      }
+    ]
+  }
+  
